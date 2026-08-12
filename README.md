@@ -10,12 +10,15 @@ Competitive programming library and selected solutions in C++.
 
 ## Library
 
-Reusable implementations of algorithms and data structures used in competitive programming.
-
 ### Data Structures
 
 - Disjoint Set Union (DSU)
 - Fenwick Tree
+- Segment Tree
+
+### Graph
+
+- Lowest Common Ancestor (LCA)
 
 ## Solutions
 
