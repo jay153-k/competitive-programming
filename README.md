@@ -15,6 +15,7 @@ Reusable implementations of algorithms and data structures used in competitive p
 ### Data Structures
 
 - Disjoint Set Union (DSU)
+- Fenwick Tree
 
 ## Solutions
 
