@@ -12,6 +12,10 @@ Competitive programming library and selected solutions in C++.
 
 Reusable implementations of algorithms and data structures used in competitive programming.
 
+### Data Structures
+
+- Disjoint Set Union (DSU)
+
 ## Solutions
 
 Selected solutions from ICPC, UCPC, Codeforces, AtCoder, and Baekjoon.
