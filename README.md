@@ -1,6 +1,6 @@
 # Competitive Programming
 
-Competitive programming library and selected implementations in C++.
+Competitive programming library and selected solutions in C++.
 
 ## Achievements
 
@@ -32,6 +32,16 @@ Competitive programming library and selected implementations in C++.
 * Modular Integer
 * Fast Fourier Transform (FFT)
 * Number Theoretic Transform (NTT)
+
+## Selected Solutions
+
+A small collection of problems I found particularly interesting during contest practice.
+
+| Problem                                                      | Contest   | Key Ideas                                                                |
+| ------------------------------------------------------------ | --------- | ------------------------------------------------------------------------ |
+| [Kitchen Knobs](https://codeforces.com/gym/101620/problem/K) | CERC 2017 | State compression, modular modeling, greedy pairing, dynamic programming |
+
+The selected solutions preserve the main structure of my original contest-practice code, with only light cleanup for readability.
 
 ## Testing
 
